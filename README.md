@@ -6,4 +6,4 @@ Conceitos aprendidos:
 * uso do framework owl carousel em jquery
 * tecnicas avançadas de flexbox.
 
-link para o projeto: 
+
