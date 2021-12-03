@@ -6,4 +6,6 @@ Conceitos aprendidos:
 * uso do framework owl carousel em jquery
 * tecnicas avançadas de flexbox.
 
+<a>https://lipemanso.github.io/clone-netflix-page/</a>
+
 
